@@ -109,4 +109,7 @@ img {
   .bottom_section p {
     width: 100%;
   }
+  .goals h1{
+    font-size: 13px;
+  }
 }
